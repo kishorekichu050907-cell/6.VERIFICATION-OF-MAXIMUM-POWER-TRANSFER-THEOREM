@@ -26,13 +26,17 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
+![e981211a-c821-4c52-9333-c81861cfd46d](https://github.com/user-attachments/assets/53b3ecbd-3929-4547-ab7f-27e6d4a65b53)
 
 **MODEL GRAPH:**
 
 Resistance (RL) in ohm
+![4c8fb8f5-9509-4b39-9b50-4fad17a5a1c9](https://github.com/user-attachments/assets/69f3c232-7207-4bd1-8e9f-ea9e7a7c2c00)
+
 
 **TABULATION:**
- 
+ ![d6e1ee03-b689-42d3-9435-58df05419155](https://github.com/user-attachments/assets/c559e5a0-55b7-48d2-bef8-bd29c61eff58)
+
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
 
 S.No	Load
